@@ -31,8 +31,8 @@ ActF stands for ActionFormer
 | Model | mAP@0.3 | mAP@0.4 | mAP@0.5 | mAP@0.6 | mAP@0.7 | ave. mAP |         Config          |                                                                                          Download                                                                                          |
 | :------: | :-----: | :-----: | :-----: | :-----: | :-----: | :------: | :---------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | LACP  |  64.6  |  56.5  |  45.3  |  34.5  |  21.8  |  44.5   | | |
-| LACP+ActF  |  77.1  |  68.5  |  56.2  |  41.8  |  23.3  |  53.4   | [config](opentad_dir/thumos_actf_i3d_lacp_pse/gpu1_id0/thumos_i3d_lacp_pse.py) | [log](https://www.alipan.com/s/HyMx892CZME)[k7b4] \| [model](https://www.alipan.com/t/TYHJ4IqT5mKcswgKTa1u) |
-| Ours+ActF |  78.5  |  70.9  |  59.3  |  43.2  |  26.2  |  55.6   | [config](opentad_dir/thumos_actf_i3d_lacp_pser/gpu1_id0/thumos_i3d_lacp_pser.py) | [log](https://www.alipan.com/s/dV1hVGHeKxu)[a67a] \| [model](https://www.alipan.com/t/K7Kg6ycOardTm8h9YmI5) |
+| LACP+ActF  |  77.1  |  68.5  |  56.2  |  41.8  |  23.3  |  53.4   | [config](opentad_dir/thumos_actf_i3d_lacp_pse/gpu1_id0/thumos_i3d_lacp_pse.py) | [log](https://www.alipan.com/s/HyMx892CZME)[k7b4] \| [model](https://pan.baidu.com/s/1iZ8TZslynw2ADRlJvqNsDA?pwd=9wjr) |
+| Ours+ActF |  78.5  |  70.9  |  59.3  |  43.2  |  26.2  |  55.6   | [config](opentad_dir/thumos_actf_i3d_lacp_pser/gpu1_id0/thumos_i3d_lacp_pser.py) | [log](https://www.alipan.com/s/dV1hVGHeKxu)[a67a] \| [model](https://pan.baidu.com/s/1Si4JYKy9o_CKKmKuQkfkgg?pwd=qeh3) |
 
 # Acknowledgement
 Our code is based on [HR-Pro](https://github.com/pipixin321/HR-Pro), [OpenTAD](https://github.com/sming256/OpenTAD), [LACP](https://github.com/Pilhyeon/Learning-Action-Completeness-from-Points). We would like to express our gratitude for their outstanding work
